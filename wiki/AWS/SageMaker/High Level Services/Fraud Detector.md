@@ -1,0 +1,1 @@
+- User uploads historical fraud data, builds custom model and exposes and API for online applications

@@ -1,0 +1,24 @@
+---
+tags:
+  - NLP
+---
+- Takes a sequence of tokens, outputs a sequence of tokens
+- Use cases:
+	- Machine translation
+	- Text summarization
+	- Speech to text
+- Implemented with [[Recurrent Neural Networks|RNN]]'s and [[Convolutional Neural Networks|CNN]]'s with attention
+- Input format is RecordIO-Protobuf with tokens as integers
+- Uses a vocabulary file to map words to number
+- SageMaker provides pre-trained models for common tasks e.g. machine translation
+- Hyperparameters
+	- batch_size
+	- optimizer_type
+	- num_layers_encoder
+	- num_layers_decoder
+	- learning_rate
+- Metrics
+	- Accuracy - not very well suited for this task
+	- BLEU score - compares against multiple reference translations
+	- Perplexity - cross-entropy based metric
+- Trains on single instance GPU nodes, but can use multiple GPUs in a single machine

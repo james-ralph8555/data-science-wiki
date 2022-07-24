@@ -1,0 +1,14 @@
+---
+tags:
+  - NLP
+  - TopicModelling
+---
+- Topic modeling assigns a general label to a documents
+- Topics are not human-readable or meaningful on their own
+- Useful for classification or summarization of documents
+- Unsupervised algorithm - uses neural variational inference
+- Takes recordIO-protobuf or CSV data via file or pipe mode, with each word tokenized into integers and a vocabulary file
+- Hyperparameters:
+	- Num_topics - number of topics to classify documents into
+	- General ML Hyperparameters
+- GPU or CPU used for training

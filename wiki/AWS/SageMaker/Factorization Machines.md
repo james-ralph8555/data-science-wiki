@@ -1,0 +1,12 @@
+---
+tags:
+  - Classification
+---
+- For classification or regression of sparse data with sparse data
+- Works well for reccomender systems since that data is inherently sparse since users interact with only a small subset of products
+- Supervised algorithm, limited to pair-wise interactions e.g. User->item
+- Takes recordIO-protobuf format in Float32
+- Works via finding factors to predict a classification or value given a matrix representing pairs (e.g. user->item)
+- Hyperparameters:
+	- Initialization methods for bias, factors, and linear terms
+- Uses CPU or GPU, but CPU recomended since GPUs are ill-suited for sparse data

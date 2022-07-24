@@ -1,0 +1,11 @@
+- Saves internal model state (gradients/tensors) at periodic intervals
+- Define rules to detect unwanted conditions (e.g. exploding/vanishing gradients) in training
+- Logs a cloudwatch event when unwanted conditions are encounters
+- Integrates with [[SageMaker Studio]] via SageMaker Studio Debugger
+- Autogenerates training reports
+- Several built in rules:
+	- Monitor system bottlenecks
+	- Profile model framework (e.g. tensorflow) operations
+	- Debug model parameters
+- Supports Tensorflow, PyTorch, MXNet, XGBoost, SageMaker generic estimator
+- Can create custom hooks and rules

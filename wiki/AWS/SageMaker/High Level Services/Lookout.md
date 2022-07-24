@@ -1,0 +1,1 @@
+- Monitors industrial equipment for anomalies and metrics, can use computer vision to detect defects in products

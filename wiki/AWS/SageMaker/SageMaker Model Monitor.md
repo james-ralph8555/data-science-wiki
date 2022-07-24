@@ -1,0 +1,5 @@
+- Get alerts on quality deviations on deployed models via [[Cloudwatch]] 
+- Can visualize data drift (how incoming data is drifting from training data)
+- Detects anomalies and outliers
+- Integrates with [[SageMaker Clarify]] to monitor for bias automatically
+- Can also monitor feature importance drift

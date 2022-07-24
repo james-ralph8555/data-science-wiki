@@ -1,0 +1,4 @@
+- Gaussian - continuous bell curve, parameterized via mean (mu) and std. dev. (sigma).  Support = \[-inf, inf\]
+- Poisson - discrete, expresses the probability of an event with a known mean time between events occuring
+- Bernoulli - discrete, gives the probability of outcome with known probability p
+- Binomial - discrete, generalization of Bernoulli, gives the probability of independent repeated Bernoulli trials

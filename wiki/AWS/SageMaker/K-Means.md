@@ -1,0 +1,13 @@
+---
+tags:
+  - Clustering
+---
+- Unsupervised clustering algorithm - divides data into K similar groups by some distance metric e.g. Euclidean distance
+- Takes recordIO-protobuf or CSV input format, with file or pipe mode for either
+- Each observation is mapped to a n-dimensional space
+- Hyperparameters:
+	- K - number of clusters - can use "elbow method" on a plot of total within-cluster sum of squares (WSS) as a function of K to find a good number
+	- Mini_batch_size
+	- Extra_center_factor - adds extra clusters while training which are reduced down to K clusters
+	- Init_method - random or Kmeans++ - Kmeans++ starts clusters far apart to avoid initializing them too close together
+- CPU or GPU for training, but CPU is reccomended

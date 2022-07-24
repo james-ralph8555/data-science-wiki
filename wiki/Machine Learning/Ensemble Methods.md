@@ -1,0 +1,6 @@
+- A common example of an ensemble method is a random forest - it takes many decision trees and lets them vote in parallel.
+- Ensemble methods reduce overfitting and improve the predictiveness of a model
+- Bagging generates random training sets by random sampling with replacement, and trains models in parallel with these datasets, and these models vote on the result
+- Boosting trains models serially, and with each iteration adjusts the weights of the observations so that the model becomes more predictive
+- Boosting generally is more accurate, but bagging helps avoid overfitting and bagging trains faster
+- [[XGBoost]] is a popular boosting framework

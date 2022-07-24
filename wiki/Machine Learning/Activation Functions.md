@@ -1,0 +1,10 @@
+- Neural networks need activation functions between neurons to add non-linearity.  This is fundamental to learning - otherwise a neural network's output could be represented as a linear combination of its inputs
+- In general, activation functions work well when they are quick to compute, continuous, and differentiable
+- Sigmoid - logistic curve from 0 to 1.  Used as the output layer on binary classification problems as it outputs a confidence.  Can also be used for multiclass, multilabel classification e.g. detecting multiple objects in a single image
+- TanH - curve from -1 to 1
+- Both of these are slow to compute and have small gradients at high/low input values which can lead to "vanishing gradients" and stop the network from leanring
+- ReLU - good general purpose choice. Defined as 0 for x<=0 and x for x>0.  Fast to compute, but can lead to "dying ReLUs" when input is not greater than 0.
+- Leaky ReLU - solves dying ReLUs but having the function be a*x for x<=0, a is user defined
+- Parametric ReLU - same as leaky ReLU but a is defined via backpropogation, however this doesn't help in many cases and is computationally expensive
+- ELU - exponential linear unit.  Like ReLU but smooth and continuously differentiable
+- Softmax - like sigmoid but with multiple inputs.  Often used as the output layer of a multiclass classification problem.  Converts output of neural network to confidences for each class.

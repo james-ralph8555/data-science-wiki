@@ -1,0 +1,20 @@
+---
+tags:
+  - Classification
+  - Regression
+  - DisitributedTraining
+---
+- Linear regression model that trains like a ML model
+- Handles regression and binary/multi-class classification
+- Takes in RecordIO-wrapped protobuf with float32 data or CSV data
+- **First column assumed to be the label column when using CSV**
+- S3 file and pipe (streaming) mode both supported
+- Training data must be normalized and shuffled
+- Uses an optimization algorithm like SGD
+- Hyperparameters:
+	- Balance_multiclass_weights - gives each class equal importance in loss functions
+	- Learning_rate
+	- mini_batch_size
+	- L1 Regularization
+	- L2 regularization weight decay
+- Trains on single or multi-machine GPU (multiple GPUs on one machine does not help)

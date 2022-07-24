@@ -1,0 +1,12 @@
+---
+tags:
+  - AnomalyDetection
+---
+- Unsupervised anomaly detection algorithm
+- Detects changes in complexity of a random forest with each datapoint: larger changes in complexity mean a datapoint is more anomalous
+- Input format can be RecordIO-protobuf or CSV, in file or pipe mode
+- Can work on streaming data via Kinesis analytics
+- Hyperparameters:
+	- Num_trees - increasing this reduces noise
+	- Num_samples_per_tree - should be chosen such that 1/Num_samples_per_tree equals the ratio of anomalous to normal data
+- CPU only

@@ -1,0 +1,3 @@
+- Automated code review for java and python code - analyzes source code and finds performance problems
+- Identifies resource leaks and race conditions
+- Machine learning powered

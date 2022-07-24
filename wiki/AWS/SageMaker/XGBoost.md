@@ -1,0 +1,22 @@
+---
+tags:
+  - Classification
+  - Regression
+---
+- eXtreme Gradient boosted decision trees
+- Powerful and quick to run
+- Performs classification and regression
+- Takes CSV, libsvm, recordIO-protobuf, and parquet formats
+- Many hyperparameters to tune
+	- Subsample - prevents overfitting
+	- Eta - step size shrinkage; prevents overfitting
+	- Gamma - minimum loss reduction to partition tree; larger value prevents overfitting
+	- Alpha - L1 regularization term
+	- Lambda - L2 regularization term
+	- eval_metric - metric to optimize on e.g. AUC, error, RMSE
+	- scale_pos_weight - adjusts balance of weights; useful for unbalanced classes
+	- max_depth - max depth of tree; setting too high can overfit
+- Training uses CPU's only for multiple instance training
+- Memory bound algorithm
+- With newer XGBoost versions, single-instance GPU training is available
+- **In general, training on GPU can be more cost-efficient due to faster training**

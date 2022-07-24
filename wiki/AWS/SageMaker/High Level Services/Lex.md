@@ -1,0 +1,9 @@
+- "Inner workings of Alexa"
+- Natural-language chatbot engine
+- Intents are defined
+- Customer utterances trigger events
+- Slots specify extra information needed by the intent
+- Example: Customer says "I want to order a pizza", this triggers an intent, customer specifies pizza size, toppings, etc which provide data to slots in the intent
+- Can deploy to AWS Mobile SDK, Meta Messenger, Slack, Twilio
+- Can generate chatbots automatically from existing conversation transcripts
+- Integrates with Amazon [[Connect]] to provide transcripts

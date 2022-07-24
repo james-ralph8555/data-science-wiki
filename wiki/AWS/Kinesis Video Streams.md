@@ -1,0 +1,3 @@
+- Takes in video stream
+- Can send data to services like [[Rekognition]] or [[Sagemaker]] ML models
+- Stores data from 1 hour to 10 years

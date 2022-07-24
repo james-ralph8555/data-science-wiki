@@ -1,0 +1,12 @@
+---
+tags:
+  - Serverless
+---
+- Not real-time; minimum 60 seconds latency
+- Fully managed/Auto scaling
+- For loading streams into [[S3]], [[Redshift]] (COPY through S3), [[OpenSearch|ElasticSearch]], and 3rd party partners e.g. Splunk
+- Supports many formats and data conversions from CSV/JSON to Parquet/ORC when writing to [[S3]]
+- Supports compression when writing to [[S3]]
+- Allows arbitrary data transforms with [[Lambda]]
+- Can read from applications, [[Cloudwatch]], or [[Kinesis Data Streams]]
+- Pay per data sent through data firehose

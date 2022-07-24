@@ -1,0 +1,3 @@
+- Learning rate - governs how fast gradient descent happens.  Low learning rates can cause slow training, while overly high learning rates can cause the network to miss an optimal solution.
+- Learning rate can be decreased over time to decrease training time and give good results
+- Batch size governs how many samples are passed to the network at once.  Smaller batch sizes can train better since they can help the network escape local minima in the loss surface better when performing gradient descent.  Larger batch sizes can decrease training time by leveraging multiprocessing on the GPU and provide normalizing effects.

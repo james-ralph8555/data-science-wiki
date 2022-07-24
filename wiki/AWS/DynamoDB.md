@@ -1,0 +1,1 @@
+- NoSQL (not only SQL), serverless, provisioned read/write capacity, general purpose database

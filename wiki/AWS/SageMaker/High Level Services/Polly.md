@@ -1,0 +1,6 @@
+- Text to speech
+- Can be given plain text, Speech Synthesis Markup Languge (SSML), or Speech Marks
+- SSML gives control over emphasis, pronunciation, breathing, whispering, speech rate, pitch, and pauses
+- Speech marks can encode when sentence/word starts/ends in the output
+- Can be given custom lexicons to show the model how to pronounce specific words and phrases
+- Provides multiple language and voice options

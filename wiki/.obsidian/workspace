@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "0a9c2fdc0a16c735",
+    "type": "split",
+    "children": [
+      {
+        "id": "16cb439ad72be28d",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33abde4fbc7ed152",
+    "type": "split",
+    "children": [
+      {
+        "id": "becda4757dfd9d4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9870e78d13b72c34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9334985ad9c80dcc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc833de917443963",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ccd0515ddb023d02",
+    "type": "split",
+    "children": [
+      {
+        "id": "87add0099b73e2b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35c0a9d30167e2db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07d096c4c31b9251",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f929226f93c934cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ad369e498a5269bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "16cb439ad72be28d",
+  "lastOpenFiles": [
+    "Machine Learning/Overfitting.md",
+    "Machine Learning/Debugging.md",
+    "AWS/SageMaker/Factorization Machines.md",
+    "AWS/SageMaker/IP Insights.md",
+    "AWS/SageMaker/Object2Vec.md",
+    "AWS/Quicksight.md",
+    "AWS/SageMaker/Random Cut Forest.md",
+    "AWS/SageMaker/Image Classification.md",
+    "AWS/SageMaker/Neural Topic Model.md",
+    "AWS/SageMaker/Latent Dirichlet Allocation.md"
+  ]
+}

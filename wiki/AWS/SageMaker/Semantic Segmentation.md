@@ -1,0 +1,11 @@
+- Pixel-level object classification: each pixel is given an object label
+- Output is a segmentation mask
+- Input can be jpg or png with annotations, or augmented manifest image format, which enables support for pipe mode
+- jpg accepted for Inference
+- Uses MXNet Gluon and Gluon CV with supports for 3 algorithms:
+	- Fully-Convolutional network (FCN)
+	- Pyramid scene parsing (PSP)
+	- DeepLabV3
+- Two backbones are supported: ResNet50 and ResNet101, both optionally pre-trained on imageNet for transfer learning
+- Hyperparameters are the usual, but algorithm and backbone can be chosen
+- Only GPU on a single machine supported for training

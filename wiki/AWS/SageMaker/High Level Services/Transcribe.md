@@ -1,0 +1,4 @@
+- Speech to text
+- Can perform speaker indentification, channel identification (seperate transcripts for each person speaking), automatic language indentification, and custom vocabularies
+- Can use automatic content redaction to redact PII
+- Can supply custom offensive words list for censorship purposes

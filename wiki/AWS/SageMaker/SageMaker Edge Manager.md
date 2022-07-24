@@ -1,0 +1,3 @@
+- Software agent for edge devices
+- Model optimized for edge devices with [[SageMaker Neo]]
+- Can collect and sample data for monitoring, labeling, and retraining

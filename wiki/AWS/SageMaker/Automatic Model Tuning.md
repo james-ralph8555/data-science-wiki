@@ -1,0 +1,8 @@
+- Automates finding optimal hyperparameters ([[Neural Network Tuning]])
+- User defines important hyperparameters and ranges of those to explore
+- Automatic model tuning learns as it goes (via Bayesian optimizer) so that every combination of hyperparameters is not tested
+- Best Practices:
+	- Don't optimize too many hyperparameters to avoid dimensionality blowup
+	- Limit ranges as much as possible
+	- Use logarithmic instead of linear scales on hyperparameter ranges when appropriate
+	- Run jobs serially to maximize learning from past tunings

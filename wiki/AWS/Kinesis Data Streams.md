@@ -1,0 +1,10 @@
+- Low latency streaming ingest at scale
+- Streams are partitioned by shards
+		Shards can be provisioned manually or with an API call
+		Each provisioned shard gets 1MB/s in and 2 MB/s out
+		On-demand mode can be used to have capacity automatically managed by AWS based on throughput peak in last 30 days
+- Data retention is 24 hours by default, allows for up to 365 days
+- Can have multiple consumers for same stream
+- Each record inserted into stream can be up to 1MB
+- Use Kinesis Client Library (KCL) to handle distributed consumption and computation on kinesis data streams
+- Use Kinesis Producer Library (KPL) to help with writing to a kinesis data stream

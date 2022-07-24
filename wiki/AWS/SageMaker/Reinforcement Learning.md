@@ -1,0 +1,6 @@
+- Reinforcement uses an agent (e.g. the Pac-Man avatar) in a space (the Pac-Man game) with a reward system (e.g. positive rewards for getting power pills, negative rewards for hitting a ghost or wall)
+- Agent learns best action to take for a given space
+- Practical applications include supply chain management, HVAC systems, industrial robotics
+- For further information: read about Q-Learning and deep Q-learning
+- Training done via deep learning
+- Sagemaker assists via distributing training and rolling out environments

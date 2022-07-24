@@ -1,0 +1,14 @@
+---
+tags:
+  - DimensionalityReduction
+---
+- Like word2vec form blazing text, but for arbitrary objects e.g. sentences or documents
+- Can be used to compute nearest neighbors of objects, to visualize clusters, predict genres, or for reccomendations
+- Input data must be tokenized into integers
+- Training data consists of pairs of tokens and/or sequences of tokens e.g. pairing a sentence token with another sentence token or pairing a user token with an item token
+- Pairs of tokens are fed into their own encoders, which are then input into a comparitor whose input is sent to a feed-forward neural network
+- Encoder can be an averaged-pooled embedder, a [[Convolutional Neural Networks|CNN]], or bidirectional [[Recurrent Neural Networks#LSTM|RNN]]: each has different strengths depending on the input data
+- Hyperparameters:
+	- Usual deep learning params: dropout, learning_rate, etc.
+	- Encoder networks: CNN, BiLSTM, pooled embedding
+- Can only train on a single CPU or GPU instance, multi-GPU is allowed

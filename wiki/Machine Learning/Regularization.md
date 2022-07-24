@@ -1,0 +1,6 @@
+- Regularization is useful to prevent overfitting, which is extremely easy to do in deep learning
+- Too many layers and neurons can cause overfitting - decreasing the model's complexity can prevent overfitting by not letting the model learn the noise in the training data
+- Dropout drops neurons at random each time data is passed through the network to prevent individual neurons from overfitting to data
+- Early stopping can be used to decrease training time by stopping when the network stops learning on the validation set.  This can cut the training off before the network overtrains.
+- L1 regularization adds the sum of the weights in the network to the weights.  This can cause the effect of entire features to go to 0.  This lets the network select only the important features.  This technique is inefficient.
+- L2 regularization is a similar concept but considers the square of the weights.  This ends up weighting less important features less instead of dropping them, and is quicker to compute.

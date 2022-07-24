@@ -1,0 +1,2 @@
+- Service for a human to provide ground truth to an unlabeled dataset
+- Contains its own ML model so that it can learn over time and only send uncertain data to people

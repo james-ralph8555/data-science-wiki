@@ -1,0 +1,1 @@
+- Physical sensor with associated service and phone app to capture data on industrial machines, end-to-end system

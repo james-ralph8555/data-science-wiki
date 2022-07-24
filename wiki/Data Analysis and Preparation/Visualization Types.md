@@ -1,0 +1,5 @@
+- Bar charts - comparison and distribution
+- Line graphs - changes over a given ordered domain e.g. time
+- Scatter plots - for seeing correlations/outliers, shows individual data points
+- Heat maps - for seeing correlations, does not show individual data points
+- Pie graphs, tree maps - for aggregating data

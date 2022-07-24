@@ -1,0 +1,19 @@
+---
+tags:
+  - Forecasting
+---
+- For forecasting 1D time series data
+- Can take multiple related [[Time Series]] as input
+- Detects frequencies and seasonality
+- Takes JSON lines or Parquet format
+- Input can contain dynamic features such as events or categorical features
+- The entire dataset should be used as the test set, and the most recent values should be withheld from the training data
+- Hyperparameters
+	- Context_length - how many time points the model sees before making predictions
+	- Epochs
+	- mini_batch_size
+	- learning_rate
+	- num_cells
+- Can train on CPU or GPU, with single or multi machine
+- Trains well on CPU for smaller models
+- Inference is CPU-only

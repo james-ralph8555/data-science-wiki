@@ -1,0 +1,17 @@
+---
+tags:
+  - ComputerVision
+  - IncrementalTraining
+---
+- Computer vision Service
+- Can do:
+	- Object and scene detection (can provide custom face collection)
+	- Image moderation
+	- Facial Analaysis (emotions and things like detecting glasses)
+	- Celebrity recognition
+	- Face comparison
+	- Find text in images
+	- Video analysis such as detecting objects/people/celebrities in video and finding paths of people
+- Images come from [[S3]]
+- Video must come from [[Kinesis Video Streams]]
+- Can be provided with custom data e.g. company logos

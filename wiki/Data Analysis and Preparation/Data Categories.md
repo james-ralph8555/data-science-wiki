@@ -1,0 +1,3 @@
+- Numerical - quantitative data e.g. heights or lengths.  Can be discrete or continuous
+- Categorical - qualitative data with no inherent numericla meaning e.g. gender or product type.  Frequently one-hot encoded for ML purposes
+- Ordinal - categorical data with numerical meaning e.g. movie ratings on a 1-5 scale or numerical binned into categories

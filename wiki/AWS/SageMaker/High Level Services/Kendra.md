@@ -1,0 +1,3 @@
+- Natural language search engine
+- Tailored for building search engine for enterprise intranets
+- End users provide feedback with thumbs up/down to improve machine learning results

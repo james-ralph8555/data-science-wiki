@@ -1,0 +1,12 @@
+- AutoML service
+- Selects algorithm, preprocesses data, tunes model, and handles infrastructure
+- Generates Jupyter notebook to show what is happening
+- User selects target feature for training
+- Shows leaderboard of model performance
+- Data must be tabular CSV
+- Works with binary classification, multiclass classification, and regression
+- Works with [[Linear Learner]], [[XGBoost]], and deep-learning algorithms
+- Integrates with SageMaker Clarify to show how models come to predictions
+- Shows feature importance for a given prediction
+- Suitable problems: classification, regression, [[Principal Component Analysis|PCA]], some missing values
+- Not for autopilot: vision/text/sequence based data, mostly missing data, features need interpretation, need a pretrained models

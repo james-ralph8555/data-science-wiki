@@ -1,0 +1,2 @@
+- Optimizes model training by converting them into hardware-optimized instructions
+- Can accelerate training by up to 50%

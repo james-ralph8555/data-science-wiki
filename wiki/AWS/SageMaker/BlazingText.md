@@ -1,0 +1,28 @@
+---
+tags: 
+  - NLP
+---
+- Can do text classification i.e. predict labels for a sentence
+- Intended for use only with sentences, not whole documents
+- Can also create vector representations of words (Word2vec) to feed into other NLP algorithms
+- For text classification, input is fed in with one sentence per line
+- For text classification, first item in each sentence needs to be \__label__ followed by the label e.g. \__label__4 linux ready for prime time , intel says .
+- For text classification, all words and punctuation should be seperated with a space
+- Word2vec accepts a text file with one training sentence per line
+- Word2vec has multiple modes:
+	- Cbow (continuous bag of words) where word order doesn't matter
+	- Skip-gram where order does matter
+	- Batch skip-gram which is like skip-gram but can be distributed
+- Word2vec hyperparams:
+	- mode (cbow, skipgram, batch_skipgram)
+	- learning_rate
+	- window_size
+	- vector_dim
+- Text classification hyperparams:
+	- Epochs
+	- learning_rate
+	- word_ngrams
+	- vector_dim
+- Training in cbow or skipgram mode, a single gpu instance will work
+- Batch skipgram uses single or multiple CPU instances
+- Text classification uses CPU nodes or a GPU node if the training data is over 2GB

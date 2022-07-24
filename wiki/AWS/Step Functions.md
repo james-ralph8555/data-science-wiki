@@ -1,0 +1,4 @@
+- For defining workflows from other AWS components e.g. data engineering processes
+- Allows for auditing workflows
+- Gives error handling and retry abilities to data engineering workflows
+- Allows for implementing conditionals based on outcome of jobs in workflow

@@ -1,0 +1,3 @@
+- Gives probability of data falling within a range
+- With continuous data, the probability is the integral of the PDF over a range
+- With discrete data, the probability is the sum of the PMF over a range

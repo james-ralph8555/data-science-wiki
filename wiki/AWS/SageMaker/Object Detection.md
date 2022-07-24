@@ -1,0 +1,8 @@
+- Identifies all objects in image, with bounding boxes and confidence scores
+- Can train from scratch, use a pre-trained model, or use transfer learning from imageNet
+- Input data can be RecordIO or images (jpg or png) with JSON annotation data
+- Uses a CNN with the Single Shot multibox detector (SSD) algorithm
+- CNN can either be VGG-16 or ResNet-50
+- Does data augmentation (flip, rescale, jitter) automatically
+- Hyperparameters: the usual deep learning hyperparameters
+- Uses GPU for training, multi-GPU and multi-machine allowed

@@ -1,0 +1,5 @@
+- Time series can be broken down into trend, seasonality, noise
+- Trend governs how the mean of the time series changes over time
+- Seasonality governs how the time series fluctuates around the mean over time
+- If seasonal variance is constant, time series can be represented as trend + seasonality + noise
+- If seasonal variance is promotional to the trend, series can be represented as trend * seasonality * noise

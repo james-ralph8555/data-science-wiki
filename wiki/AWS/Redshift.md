@@ -1,0 +1,4 @@
+- Data warehousing and SQL analytics platform
+- Data is loaded from [[S3]], usually with COPY command
+- Columnar datastore therefore efficient for queries
+- Redshift spectrum can be used to directly query [[S3]] data

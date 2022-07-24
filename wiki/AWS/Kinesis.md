@@ -1,0 +1,6 @@
+- Kinesis is a managed streaming service to Apache Kafka
+- Manages real time data from logs, IoT metrics, or clickstream data
+- Use [[Kinesis Data Streams]] for realtime streaming
+- Use [[Kinesis Data Firehose]] for low-latency (but not real time) fully-managed ingest
+- Use [[Kinesis Analytics]] for real-time analytics/streaming ETL on kinesis
+- Use [[Kinesis Video Streams]] for video streams
