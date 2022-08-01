@@ -1,5 +1,4 @@
 # data-science-wiki
-testing
 
 The wiki is hosted at https://sozy.xyz/wiki
 
