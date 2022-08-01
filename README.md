@@ -1,9 +1,5 @@
 # data-science-wiki
 
-test 123
-test 1234
-test 12345 
-
 The wiki is hosted at https://sozy.xyz/wiki
 
 ## Dependencies
@@ -35,7 +31,7 @@ You must install mkdocs, a python tool which compiles the markdown files into th
 Install mkdocs and its plugins as below:
 ```
 cd data-science-wiki
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
