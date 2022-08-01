@@ -2,532 +2,537 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://sozy.xyz/wiki/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://sozy.xyz/wiki/Exam%20Prep%20Resources/</loc>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Athena/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Aurora/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Batch/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/CloudTrail/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Cloudwatch/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Data%20Pipelines/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/DynamoDB/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/EC2/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Elastic%20Container%20Registry/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Elastic%20MapReduce/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Glue%20Data%20Catalog/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Glue/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/IAM/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Key%20Management%20Service/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Kinesis%20Analytics/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Kinesis%20Data%20Firehose/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Kinesis%20Data%20Streams/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Kinesis%20Video%20Streams/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Kinesis/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Lambda/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/OpenSearch/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/PrivateLink/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Quicksight/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Redshift/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Rekognition/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Relational%20Database%20Service/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/S3/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Step%20Functions/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/Virtual%20Private%20Cloud/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/Apache%20Spark%20with%20SageMaker/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/Automatic%20Model%20Tuning/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/BlazingText/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/Data%20Wrangler/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/DeepAR/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/Factorization%20Machines/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/IP%20Insights/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/Image%20Classification/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/Implementation%20and%20MLOps/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/K-Means/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/K-Nearest-Neighbors/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/Latent%20Dirichlet%20Allocation/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/Linear%20Learner/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/Neural%20Topic%20Model/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/Object%20Detection/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/Object2Vec/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/Principal%20Component%20Analysis/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/Random%20Cut%20Forest/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/Reinforcement%20Learning/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/SageMaker%20Autopilot/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/SageMaker%20Canvas/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/SageMaker%20Clarify/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/SageMaker%20Debugger/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/SageMaker%20Edge%20Manager/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/SageMaker%20JumpStart/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/SageMaker%20Model%20Monitor/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/SageMaker%20Neo/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/SageMaker%20Notebooks/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/SageMaker%20Studio/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/SageMaker%20Training%20Compiler/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/SageMaker/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/Sagemaker%20Ground%20Truth/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/Semantic%20Segmentation/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/Seq2Seq/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/XGBoost/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/CodeGuru/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/Comprehend/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/Connect/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/DeepLens/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/Forecast/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/Fraud%20Detector/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/Kendra/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/Lex/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/Lookout/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/Monitron/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/Neuron/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/Panorama/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/Personalize/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/Polly/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/Rekognition/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/TexTract/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/TorchServe/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/Transcribe/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/AWS/SageMaker/High%20Level%20Services/Translate/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Data%20Analysis%20and%20Preparation/Binning/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Data%20Analysis%20and%20Preparation/Data%20Categories/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Data%20Analysis%20and%20Preparation/Distribution%20Types/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Data%20Analysis%20and%20Preparation/Imbalanced%20Data/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Data%20Analysis%20and%20Preparation/Missing%20Data%20Techniques/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Data%20Analysis%20and%20Preparation/Outliers%20In%20Dataset/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Data%20Analysis%20and%20Preparation/Probability%20Density%20Function/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Data%20Analysis%20and%20Preparation/SQL/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Data%20Analysis%20and%20Preparation/TF-IDF/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Data%20Analysis%20and%20Preparation/Time%20Series/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Data%20Analysis%20and%20Preparation/Transformations/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Data%20Analysis%20and%20Preparation/Visualization%20Types/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Machine%20Learning/Activation%20Functions/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Machine%20Learning/Confusion%20Matrix/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Machine%20Learning/Convolutional%20Neural%20Networks/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Machine%20Learning/Debugging/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Machine%20Learning/Ensemble%20Methods/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Machine%20Learning/Neural%20Network%20Tuning/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Machine%20Learning/Overfitting/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Machine%20Learning/Recurrent%20Neural%20Networks/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Machine%20Learning/Regularization/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sozy.xyz/wiki/Machine%20Learning/SciKitLearn/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
