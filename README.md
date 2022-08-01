@@ -6,6 +6,7 @@ The wiki is hosted at https://sozy.xyz/wiki
 
 This wiki is compiled from markdown files. 
 Do not edit index.md as it will be overwritten by the build script.
+Edit the files inside of the wiki directory - the files in the public directory hold the compiled html files and are overwritten on complile
 
 See [this](https://www.markdownguide.org/basic-syntax/) for how to write markdown.
 
