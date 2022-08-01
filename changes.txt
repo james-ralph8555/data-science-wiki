@@ -1,0 +1,11 @@
+changes
+
+- talk about tf/idf vectorizer in sklearn
+- talk abt minmaxscaler in sklearn
+- talk abt normalscaler in sklearn
+- aws batch transform
+- figure out if sagemaker hyperparameter tuner allows grid or random ans: (random)
+- sagemaker lifecycle config
+- api gateway
+- no pre built R container in sagemaker
+- sagemaker kms only affects data on sagemaker instance, not s3

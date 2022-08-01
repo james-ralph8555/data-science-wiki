@@ -1,0 +1,27 @@
+site_name: AWS ML Notes
+site_url: https://sozy.xyz/wiki/
+site_dir: public
+docs_dir: ./wiki
+repo_url: https://github.com/james-ralph8555/data-science-wiki
+repo_name: data-science-wiki
+edit_uri: 'edit/main/wiki'
+theme:
+  name: material
+  palette:
+    scheme: slate
+# Extensions
+markdown_extensions:
+  - footnotes
+  - attr_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.tasklist
+  - pymdownx.emoji
+  - admonition
+  - toc:
+      permalink: true
+plugins:
+  - search
+  - roamlinks
