@@ -45,19 +45,7 @@ explanation on how to use it.
 1. ``cd`` inside the repo (where `mkdocs.yml` is)
 2. Run ``mkdocs serve`` to create a test environment at ``http://127.0.0.1:8000/`` . Since you will be doing this often, we have added `serve_website.bat` and `serve_website` (a shell script) which runs this command.
 3. If you are satisfied with your changes, push the changes to github.
-    - The server will automatically recompile the wiki and make it live at http://07th-mod.com/wiki/
-    - You may need to **refresh the website in your browser** to see the changes (just typing in the website may fetch a cached copy!)
 4. If you need a local-only HTML version of the website run ``mkdocs build`` to convert the repository into a working website
-
-## Useful Information about the wiki
-
-### Using Markdown Extensions
-
-The markdown extensions are configured in the `mkdocs.yml` file.
-Extensions starting with `pymdownx` are part of the PyMdown Extensions
-package. [Click here](https://facelessuser.github.io/pymdown-extensions/extensions/arithmatex/)
-to see the full list of extensions. Note that each individual extension must
-be enabled in the `mkdocs.yml` file before it can be used.
 
 ### Generating the sitemap
 To generate the sitemap on the home page, make sure you are in the root directory of this repo (data-science-wiki) and run
