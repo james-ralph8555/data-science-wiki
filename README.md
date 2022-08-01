@@ -2,6 +2,38 @@
 
 The wiki is hosted at https://sozy.xyz/wiki
 
+# General wiki editing
+
+This wiki is compiled from markdown files. 
+
+See [this](https://www.markdownguide.org/basic-syntax/) for how to write markdown.
+
+You can also (and are reccomended to) use [obsidian.md style internal links](https://help.obsidian.md/How+to/Internal+link)
+
+How to use obsidian.md style internal links:
+In the document, type [[\<page name\>]] to link to that page e.g. [[IAM]]
+
+To display an alias for a link e.g. CNN instead of Convolutional Neural Network, first define an alias on the Convolutional Neural Network page:
+```
+---
+aliases: [CNN]
+---
+```
+Then use [[Convolutional Neural Networks|CNN]] to link to the Convolutional Neural Network page but only show the CNN alias
+
+To link to a section on a page, use [[page#section]] e.g.
+[[Recurrent Neural Networks#LSTM]]
+
+This can be combined with an alias to display this section's link as RNN#LSTM by
+
+[[Recurrent Neural Networks#LSTM|RNN]]
+
+# Editing wiki on github
+
+Make commits to the main branch and they will automatically update on the site.  You can do this simply by clicking the edit icon on a page on the site.  If it asks you to login, contact me to make you a contributor
+
+# Local wiki Editing
+
 ## Dependencies
 * 3.4 and above
 * [mkdocs](https://www.mkdocs.org/)
@@ -16,7 +48,7 @@ Firstly, please clone this repository so you have all the files needed to edit t
 git clone https://github.com/james-ralph8555/data-science-wiki
 ```
 
-### 1. Installing Python
+### Installing Python
 
 You must install Python and pip (the python package manager) manually on your system.
 
