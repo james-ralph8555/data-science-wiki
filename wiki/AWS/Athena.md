@@ -8,3 +8,4 @@ tags:
 - [[Glue Data Catalog]]s can inform Athena
 - Security managed via [[IAM]] policies
 - Much of Athena's security is governed by [[S3]] policies
+- testing
