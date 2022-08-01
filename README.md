@@ -5,10 +5,12 @@ The wiki is hosted at https://sozy.xyz/wiki
 # General wiki editing
 
 This wiki is compiled from markdown files. 
+Do not edit index.md as it will be overwritten by the build script.
+Edit the files inside of the wiki directory - the files in the public directory hold the compiled html files and are overwritten on complile
 
 See [this](https://www.markdownguide.org/basic-syntax/) for how to write markdown.
 
-You can also (and are reccomended to) use [obsidian.md style internal links](https://help.obsidian.md/How+to/Internal+link)
+You can also (and are recomended to) use [obsidian.md style internal links](https://help.obsidian.md/How+to/Internal+link)
 
 How to use obsidian.md style internal links:
 In the document, type [[\<page name\>]] to link to that page e.g. [[IAM]]
@@ -28,14 +30,14 @@ This can be combined with an alias to display this section's link as RNN#LSTM by
 
 [[Recurrent Neural Networks#LSTM|RNN]]
 
-# Editing wiki on github
+# Editing wiki on github (recommended)
 
 Make commits to the main branch and they will automatically update on the site.  You can do this simply by clicking the edit icon on a page on the site.  If it asks you to login, contact me to make you a contributor
 
 # Local wiki Editing
 
 ## Dependencies
-* 3.4 and above
+* Python 3.4 and above
 * [mkdocs](https://www.mkdocs.org/)
 * [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 * [mkdocs-roamlinks-plugin](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin)
