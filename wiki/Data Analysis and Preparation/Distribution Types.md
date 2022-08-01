@@ -3,3 +3,4 @@
 - Bernoulli - discrete, gives the probability of outcome with known probability p
 - Binomial - discrete, generalization of Bernoulli, gives the probability of independent repeated Bernoulli trials
 - testing
+- testing 2
