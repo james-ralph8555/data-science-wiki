@@ -31,7 +31,7 @@ You must install mkdocs, a python tool which compiles the markdown files into th
 Install mkdocs and its plugins as below:
 ```
 cd data-science-wiki
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
