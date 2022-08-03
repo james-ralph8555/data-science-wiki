@@ -7,6 +7,6 @@
 - Analyzing ad impressions and clicks
 - Analyzing data across an S3 data lake and Redshift
 # Anti-patterns
-- Small datasets: for datasets less than 100GB, Redshift is overill and a [[Relationala Database Service|RDS]] database is a better choice
+- Small datasets: for datasets less than 100GB, Redshift is overill and a [[Relational Database Service|RDS]] database is a better choice
 - Online transaction processing (OLTP): If fast transactions are required, a traditional relational database or NoSQL database such as [[DynamoDB]] is a better choice
 - Unstructured data: Redshift data must have a defined schema.  Data should be processed via and ETL service first
