@@ -12,3 +12,5 @@ tags:
 - Apache Spark MLLib can perform machine learning tasks
 - EMR can be managed from an EMR notebook (Jupyter notebook)
 - EMR security is managed with [[IAM]] policies and [[IAM]] roles
+# Anti-patterns
+- Small datasets: EMR is built for massive parallel processing, and small jobs should be run on a single machine with less overhead

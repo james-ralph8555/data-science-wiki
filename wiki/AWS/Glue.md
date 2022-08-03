@@ -15,3 +15,4 @@ tags:
 		Machine learning transform - FindMatchesML - for (fuzzy) data deduplication
 		All Apache Spark transforms can be used
 - Cannot write to recordIO-protobuf
+- Performance can be modified by attaching more Data Processing Units (DPUs) to a glue job.  The default is 10 DPUs, and the minimum is 2 DPUs.

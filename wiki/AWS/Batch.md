@@ -1,1 +1,6 @@
-- For running general batch jobs from Docker images
+- For running general batch jobs
+- Dynamically provisions and scales [[EC2]] or [[Fargate]]
+- Using containers with Fargate allows for a completely serverless architecture
+- Supports adding GPU accelerators to workloads
+- Integrates with [[Step Functions]]
+- Can optimize to be run on lowest cost instance types or spot instance types
